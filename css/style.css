@@ -1,0 +1,12 @@
+body { 
+    background-color: black;
+    background-image: url('../gif/image_processing20200615-32525-10p9bw3.gif');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    width: 100vw;
+    height: 100vh;
+    image-orientation: center;
+    align-items: center;
+
+}
